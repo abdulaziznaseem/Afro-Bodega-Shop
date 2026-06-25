@@ -1,6 +1,6 @@
-# AfroShop - Online Store
+# Afro Bodega Shop - Online Store
 
-AfroShop is a modern e-commerce platform built with Laravel and Aimeos, designed to provide a seamless shopping experience for African-inspired products. The platform supports multiple payment gateways and includes features such as product reviews and an admin dashboard for managing products, discounts, and orders.
+Afro Bodega Shop is a modern e-commerce platform built with Laravel and Aimeos, designed to provide a seamless shopping experience for African-inspired products. The platform supports multiple payment gateways and includes features such as product reviews and an admin dashboard for managing products, discounts, and orders.
 
 ## Features
 
